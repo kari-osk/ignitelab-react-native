@@ -12,7 +12,7 @@ export function SignIn() {
   const { colors } = useTheme()
 
   function handleSignIn() {
-    console.log()
+    console.log(name, password)
   }
 
   return (
